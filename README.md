@@ -1,6 +1,7 @@
 # projeto01_pythonDIO
- <p>**Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.**</p>
+ **Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.**
  <hr>
+ <p>
  **Assuntos abordados neste curso**:
  1. Python Básico
  2. Estrutura de dados
